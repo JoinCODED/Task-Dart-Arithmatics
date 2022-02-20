@@ -1,33 +1,32 @@
-# TASK-NAME
+# Arithmetics ✖️➖➗
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+Given the variable:
 
-## Instructions
-- Fork and clone [this repository](https://github.com/JoinCODED/{REPO_NAME}) to your `Development` folder.
+```dart
+double tempInFahrenheit = 86;
+```
 
-## Objective and end result
-- Write the objective of the task.
-- If there are any images, make sure you resize them to around 880px maximum width. **Don't add big images**
+Using dart arithmetics convert the temperature to `Celsius`, using this formula:
 
-![screenshot](https://tenor.com/xNjE.gif)
+```
+Fahrenheit to Celsius:   (°F − 32) / 1.8 = °C
+```
 
+Print the result as following:
 
-### 🍋 The basic challenge title
+```
+86F = 30C
+```
 
-- Step 1
-- Step 2
-- Step 3
+### 🍋 Floats Methods
 
+Read those [docs](https://api.dart.dev/stable/2.16.1/dart-core/num/toStringAsFixed.html)
+In your output show at most 1 fractional digit
 
-### 🤼‍♂️ The hard challenge title
+### 🌶 Vice Versa
 
-- Step 1
-- Step 2
-- Step 3
+Do it the other way around, convert `Celsius` to `Fahrenheit`.
 
-
-### 🌶 The Extreme challenge title 
-
-- Step 1
-- Step 2
-- Step 3
+```
+Celsius to Fahrenheit: °C * 1.8000 + 32.00 = °F
+```

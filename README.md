@@ -1,4 +1,4 @@
-# Arithmetics ✖️➖➗
+### 🍋 Arithmetics ✖️➖➗
 
 Given the variable:
 
@@ -18,7 +18,7 @@ Print the result as following:
 86F = 30C
 ```
 
-### 🍋 Floats Methods
+### 🤼‍♂️ Floats Methods
 
 Read those [docs](https://api.dart.dev/stable/2.16.1/dart-core/num/toStringAsFixed.html).
 
